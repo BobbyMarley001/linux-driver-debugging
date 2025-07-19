@@ -12,16 +12,6 @@ This is a simple academic project that demonstrates writing, building, and debug
 - **Tools Used**: GCC, Make, insmod, rmmod, dmesg  
 - **License**: MIT (for educational use)
 
----
-
-## 📁 Project Structure
-
-linux-driver-debugging/
-├── my_driver.c # Kernel module source code
-├── Makefile # Makefile to build the module
-├── .gitignore # Ignore build artifacts
-└── README.md # This documentation file
-
 
 ---
 
