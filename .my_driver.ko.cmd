@@ -1,1 +1,0 @@
-savedcmd_/home/bala/linux-driver-debugging/my_driver.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/bala/linux-driver-debugging/my_driver.ko /home/bala/linux-driver-debugging/my_driver.o /home/bala/linux-driver-debugging/my_driver.mod.o

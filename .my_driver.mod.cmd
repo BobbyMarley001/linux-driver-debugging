@@ -1,1 +1,0 @@
-savedcmd_/home/bala/linux-driver-debugging/my_driver.mod := printf '%s\n'   my_driver.o | awk '!x[$$0]++ { print("/home/bala/linux-driver-debugging/"$$0) }' > /home/bala/linux-driver-debugging/my_driver.mod
